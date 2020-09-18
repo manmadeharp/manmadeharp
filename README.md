@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Home</title>
     <link rel="stylesheet" href="app.css">
   </head>
-  <body>hello</body>
+  I dont know how md code works so I am testing it out
