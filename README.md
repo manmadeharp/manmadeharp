@@ -24,15 +24,15 @@ I am a Software Developer who is currently working at CodeNation.
   - I made it myself with the help of documenation given by each stack and a few different tutorials.
   - this is a self-made project
   
-  ## My group made Ecommerce Website : 
+  ## My group made Ecommerce Website : https://github.com/manmadeharp/Online-tech-shop
   - this was made by a group of three I was in during CodeNation.
   - I lead the team I was in by setting the tasks, problems to solve and teaching my other team how to solv these problems
   - it uses HandleBars Express MongoDB and Node.js
  
-  ## My youtube Django Project:
+  ## My youtube Django Project: https://github.com/manmadeharp/youtube-django
   - this was made using Django and SQLite it allows you to create and use an account to upload videos and comment on them as a User.
   
-  ## My Python Project Repo:
-  - This is a series of projects that I think of randomly throughout my days of different problems that I want to solve.
+  ## My Python Project Repo: https://github.com/manmadeharp/Python-Projects
+  - This is a series of projects that I started on the 18/11/2020 where I think of randomly throughout my days of different problems that I want to solve.
   - my first project I uploaded to this repo is a series I am doing myself on Number Theory using Python.
   - I will be Continuing to think of new problems to solve in the future, it will likely be in the domain of Data science and mathematics :)
