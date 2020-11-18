@@ -17,3 +17,22 @@ I am a Software Developer who is currently working at CodeNation.
   - this was one of my first group projects I did when I was 12 at bath and presented in front of 800 people from various companies such as google and others at the festival of code .
   - A link to our presentation https://www.slideshare.net/hazamajaza/fdbar-presentation
   - you can find more information about this here https://www.bathhacked.org/news/bath-young-rewired-state-festival-of-code-2015/ just scroll down to find our presentation.
+  
+  ## My Personally made Ecommerce Website:  https://github.com/manmadeharp/My_Ecommerce_Store
+  - This is a clone of some ecommerce websites that I've seen online such as amazon, curry's and others alike.
+  - It was made using MongoDB Express React and Node.js.
+  - I made it myself with the help of documenation given by each stack and a few different tutorials.
+  - this is a self-made project
+  
+  ## My group made Ecommerce Website : 
+  - this was made by a group of three I was in during CodeNation.
+  - I lead the team I was in by setting the tasks, problems to solve and teaching my other team how to solv these problems
+  - it uses HandleBars Express MongoDB and Node.js
+ 
+  ## My youtube Django Project:
+  - this was made using Django and SQLite it allows you to create and use an account to upload videos and comment on them as a User.
+  
+  ## My Python Project Repo:
+  - This is a series of projects that I think of randomly throughout my days of different problems that I want to solve.
+  - my first project I uploaded to this repo is a series I am doing myself on Number Theory using Python.
+  - I will be Continuing to think of new problems to solve in the future, it will likely be in the domain of Data science and mathematics :)
