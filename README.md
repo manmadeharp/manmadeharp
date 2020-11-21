@@ -14,7 +14,7 @@ I am a Software Developer who is currently working at CodeNation.
   - I have more information about my history with programming and my passion and goals for the future and what I can do for you.
   
   ## Fudbar: https://github.com/manmadeharp/FudBar
-  - this was one of my first group projects I did when I was 12 at bath and presented in front of 800 people from various companies such as google and others at the festival of code .
+  - this was one of my first group projects I did when I was 12 at bath and presented in front of 800 people from various companies such as google and others at the festival of code hosted by young rewired, it's made in C.
   - A link to our presentation https://www.slideshare.net/hazamajaza/fdbar-presentation
   - you can find more information about this here https://www.bathhacked.org/news/bath-young-rewired-state-festival-of-code-2015/ just scroll down to find our presentation.
   
