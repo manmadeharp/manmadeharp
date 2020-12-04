@@ -5,7 +5,7 @@
   </head>
   
 ## My name is Finbar Cowan <br>
-I am a Web Developer who is currently working at CodeNation.
+I am a Web Developer between jobs.
   I have been programming since the age of 10 although I don't have much on this github account to show it yet but give me a few weeks :)
   Here is a list of my completed or currently in progress Projects:
   
