@@ -21,7 +21,7 @@ I am a Web Developer between jobs.
   ## My Personally made Ecommerce Website:  https://github.com/manmadeharp/Ecommerce_Store_V4
   - This is a clone of some ecommerce websites that I've seen online such as amazon, curry's and others alike.
   - It was made using MongoDB Express React and Node.js.
-  - I made it myself with the help of documenation given by each stack and a few different tutorials.
+  - I made it myself with the help of documenation given by each stack and a few different Videos.
   - this is a self-made project
   
   ## My group made Ecommerce Website : https://github.com/manmadeharp/Online-tech-shop
