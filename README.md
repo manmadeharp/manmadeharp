@@ -21,6 +21,7 @@ I am a Web Developer between jobs.
   - It was made using MongoDB Express React and Node.js.
   - I made it myself with the help of documenation given by each stack and a few different Videos.
   - this is a self-made project
+  - the rest of the previously made versions are located in my github repos, V3 is another successful attempt at a ecommerce store that uses very different methods
   
   ## My group made Ecommerce Website : https://github.com/manmadeharp/Online-tech-shop
   - this was made by a group of three I was in during CodeNation.
